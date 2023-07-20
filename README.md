@@ -6,4 +6,4 @@ Author: Tony Huynh <br>
 Template: Nikolai Bain <br>
 Powered by Webflow <br>
 
-Website: https://projectbase-fdb68b.webflow.io/resources
+Website: https://projectbase-fdb68b.webflow.io
